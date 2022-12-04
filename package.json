@@ -1,0 +1,17 @@
+{
+  "name": "interactivecmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.5",
+    "tree-kill": "^1.2.2",
+    "vorpal": "^1.12.0"
+  }
+}
