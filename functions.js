@@ -18,7 +18,7 @@ const killProcess = (processId) => {
 };
 
 // function bringToForeground(pid) {
-// 	shell.exec(`fg ${pid}`);
+//
 // }
 
 function sendSigintToExecutable(v) {
